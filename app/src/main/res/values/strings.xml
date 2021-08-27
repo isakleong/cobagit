@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">cobamaps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="json_timeout">60</string>
+</resources>
